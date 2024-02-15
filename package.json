@@ -14,5 +14,8 @@
   "devDependencies": {
     "del-cli": "^5.1.0",
     "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "foxes.cool": "^1.0.2"
   }
 }
